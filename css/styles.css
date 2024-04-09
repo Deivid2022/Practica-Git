@@ -27,3 +27,19 @@ p{
     left: 15vi;  
     
 }
+@media screen and (max-width:1250px) {
+    .gridContainer{
+        grid-template-columns: auto auto auto;
+        left: 10vi;
+    }
+}
+@media screen and (max-width:996px) {
+    .gridContainer{
+        grid-template-columns: auto auto;
+    }
+}
+@media screen and (max-width:648px) {
+    .gridContainer{
+        grid-template-columns: auto;
+    }
+}
