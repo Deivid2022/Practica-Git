@@ -1,0 +1,83 @@
+<<<<<<< HEAD
+=======
+@font-face {
+    font-family: 'Acme';
+    src: url('/Strong/font/Acme-Regular.ttf');
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    position: absolute;
+    font-size: 64px;
+    font-family: 'Acme';
+    margin-left: 5vi;
+}
+p{
+    position: absolute;
+    font-size: 22px;
+    color: rgb(117, 117, 117);
+    font-family: 'Acme';
+    margin-left: 5vi;
+    top: 12vi;
+}
+a{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    font-family: 'Acme';
+    border-radius: 0.8vi;
+    text-align: center;
+    padding: 0.5vi 1vi;
+    top: 19vi;
+    margin-left: 5vi;
+}
+.left{
+    position: absolute;
+    left: 55vi;
+    width: 15vi;
+    top: 2.5vi;
+}
+.right{
+    position: absolute;
+    left: 71vi;
+    width: 15vi;
+    top: 6vi;
+}
+.flex{
+    position: absolute;
+    display: flex;
+    top: 30vi;
+    margin-left: 1vi;
+}
+img{
+    width: 18vi;
+    margin-left: 11vi;
+}
+.num1{
+    position: absolute;
+    font-family: 'Acme';
+    font-size: 2vi;
+    top: 25vi;
+    left: 21.5vi;
+    color: rgb(172, 172, 172);
+}
+.num2{
+    position: absolute;
+    font-family: 'Acme';
+    font-size: 2vi;
+    top: 25vi;
+    left: 50.1vi;
+    color: rgb(172, 172, 172);
+}
+.num3{
+    position: absolute;
+    font-family: 'Acme';
+    font-size: 2vi;
+    top: 25vi;
+    left: 79vi;
+    color: rgb(172, 172, 172);
+}
+>>>>>>> bf8c457 (style: :sparkles: Terminacion de pagina2)
