@@ -29,32 +29,11 @@ p{
     margin-left: 47vi;
     
 }
-.gridContainer{
-    position: absolute;
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    column-gap: 10px;
-    row-gap: 10px;
-    left: 15vi;  
-    margin-top: 1vi;
-    
-}
-@media screen and (max-width:1250px) {
-    .gridContainer{
-        grid-template-columns: auto auto auto;
-        left: 10vi;
-    }
-}
-@media screen and (max-width:996px) {
-    .gridContainer{
-        grid-template-columns: auto auto;
-    }
-}
-@media screen and (max-width:648px) {
-    .gridContainer{
-        grid-template-columns: auto;
-    }
-    .boton{
-        margin-left: 43vi;
-    }
+.Container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70vi;
+    justify-content: center;
+    margin-left: 15vi;
+    margin-top: 2vi;
 }
