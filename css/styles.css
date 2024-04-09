@@ -8,18 +8,16 @@ body{
 }
 
 h1{
-    position: absolute;
     font-size: 64px;
     text-align: center;
     left: 35vi;
     font-family: 'Acme';
 }
 p{
-    position: absolute;
     font-size: 22px;
     text-align: center;
     left: 35.5vi;
-    top: 11vi;
+    top: 200px;
     color: rgb(117, 117, 117);
     font-family: 'Acme';
 }
