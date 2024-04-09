@@ -44,3 +44,37 @@ a{
     width: 15vi;
     top: 6vi;
 }
+.flex{
+    position: absolute;
+    display: flex;
+    top: 30vi;
+    margin-left: 1vi;
+}
+img{
+    width: 18vi;
+    margin-left: 11vi;
+}
+.num1{
+    position: absolute;
+    font-family: 'Acme';
+    font-size: 2vi;
+    top: 25vi;
+    left: 21.5vi;
+    color: rgb(172, 172, 172);
+}
+.num2{
+    position: absolute;
+    font-family: 'Acme';
+    font-size: 2vi;
+    top: 25vi;
+    left: 50.1vi;
+    color: rgb(172, 172, 172);
+}
+.num3{
+    position: absolute;
+    font-family: 'Acme';
+    font-size: 2vi;
+    top: 25vi;
+    left: 79vi;
+    color: rgb(172, 172, 172);
+}
