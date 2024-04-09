@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Acme';
+    src: url('/Strong/font/Acme-Regular.ttf');
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    position: absolute;
+    font-size: 64px;
+    font-family: 'Acme';
+    margin-left: 5vi;
+}
+p{
+    position: absolute;
+    font-size: 22px;
+    color: rgb(117, 117, 117);
+    font-family: 'Acme';
+    margin-left: 5vi;
+    top: 12vi;
+}
+a{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    font-family: 'Acme';
+    border-radius: 0.8vi;
+    text-align: center;
+    padding: 0.5vi 1vi;
+    top: 19vi;
+    margin-left: 5vi;
+}
+.left{
+    position: absolute;
+    left: 55vi;
+    width: 15vi;
+    top: 2.5vi;
+}
+.right{
+    position: absolute;
+    left: 71vi;
+    width: 15vi;
+    top: 6vi;
+}
